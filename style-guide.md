@@ -11,31 +11,21 @@ The designs were created to the following widths:
 
 ## Colors
 
-- White: #ffffff
+- White:#ffffff
 
-
-- Stone 100: #f3e6d8
-- Stone 150: #e4ded8
-- Stone 600: #5f574e
-- Stone 900: #302d2c
-
-- Brown 800: #854632
-
-- Rose 800: #7b284f
-- Rose 50: #fff5fa
+- Slate 300: #d6e2f0
+- Slate 500: #68778d
+- Slate 900: #1f3251
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 16px
+- Font size (paragraph): 15px
 
-### Fonts
-
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
-- Weights: 400
+### Font
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 600, 700
+- Weights: 400, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+> 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
